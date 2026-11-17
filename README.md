@@ -9,7 +9,7 @@ It covers dynamic allocation with `new` / `delete`, stack vs heap, pointers vs r
 
 <div align="center">
     <br>
-    <a href="https://github.com/tdanielsousa/42_School/blob/main/Subjects/cpp01_subject.pdf" target="_blank">
+    <a href="https://github.com/tdanielsousa/42_School/blob/main/Subjects/cpp01.pdf" target="_blank">
         <img src="https://img.shields.io/badge/View%20Subject-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Subject PDF" height="40">
     </a>
     <p><i>Click on the button above to see the subject's pdf.</i></p>
